@@ -23,8 +23,11 @@ Frontend built with **React**
 Technologies Used
 
   Frontend   -->     React 
+  
   Backend    -->     Node.js + Express
+  
   Auth       -->     Passport.js
+  
   Database   -->     PostgreSQL 
 
 
